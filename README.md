@@ -1,3 +1,4 @@
+Github actions [![Python application test with Github Actions](https://github.com/Camilafabiani87/Azure-Agile-Project/actions/workflows/main.yml/badge.svg)](https://github.com/Camilafabiani87/Azure-Agile-Project/actions/workflows/main.yml)
 # Overview
 This project involves the development of a CI/CD Pipeline. Initially, we will create it using GitHub Actions in combination with a Makefile, requirements, and application code. Subsequently, we will connect this to Azure Pipelines while utilizing the Flask web framework
 
